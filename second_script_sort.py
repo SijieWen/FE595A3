@@ -36,10 +36,10 @@ f.close()
 df_female = pd.DataFrame(female_l, columns = ['Score', 'Sentence'])    # conver the list into a dataframe
 df_female = df_female.sort_values(by="Score" , ascending=False)   # sort all of the characters based on sentiment score
 
-top_female = df_female.head(10)   # top 10 male
+top_female = df_female.head(10)   # top 10 female
 top_female
 
-bottom_female = df_female.tail(10)   # bottom 10 male
+bottom_female = df_female.tail(10)   # bottom 10 female
 bottom_female
 
 
