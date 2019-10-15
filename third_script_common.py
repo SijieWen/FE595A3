@@ -20,12 +20,12 @@ male_des     # all descriptions for male characters
 female_des = []
 for i in range(len(df_female)):
     data = df_female.iloc[i,1]
-    data = re.findall(r"((?<=She's).*)", data)    # remove He's, just leave useful character
+    data = re.findall(r"((?<=She's).*)", data)    # remove She's, just leave useful character
     data = "".join(data)    # conver list into string
     female_des.append(data)
 
 female_des = "".join(female_des)   # conver list into string
-female_des 
+female_des     # all descriptions for female characters
 
 
 ## Get Wordlists
