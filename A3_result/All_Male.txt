@@ -1,0 +1,548 @@
+1:He's a short-sighted day-dreaming photographer for the 21st century. 
+2:He's a jaded gay cat burglar from the Mississippi delta. 
+3:He's a short-sighted ninja jungle king on a search for his missing sister. 
+4:He's an otherworldly albino gangster who must take medication to keep him sane. 
+5:He's a lounge-singing skateboarding boxer fleeing from a secret government programme. 
+6:He's a Nobel prize-winning arachnophobic gangster in a wheelchair. 
+7:He's an impetuous misogynist card sharp on the run. 
+8:He's a jaded hunchbacked assassin from the Mississippi delta. 
+9:He's a hate-fuelled voodoo paramedic in drag. 
+10:He's a gun-slinging pirate photographer from a doomed world. 
+11:He's a bookish neurotic matador on the run. 
+12:He's an ungodly day-dreaming ex-con from the 'hood. 
+13:He's an unconventional drug-addicted messiah who hides his scarred face behind a mask. 
+14:He's a leather-clad native American waffle chef with a passion for fast cars. 
+15:He's a jaded chivalrous vampire hunter gone bad. 
+16:He's a lounge-singing flyboy cowboy on a mission from God. 
+17:He's a hate-fuelled skateboarding firefighter looking for a cure to the poison coursing through his veins. 
+18:He's an immortal sweet-toothed photographer with a secret. 
+19:He's a war-weary flyboy ex-con whom everyone believes is mad. 
+20:He's a superhumanly strong sweet-toothed rock star looking for 'the Big One.' 
+21:He's an immortal coffee-fuelled Green Beret with a secret. 
+22:He's a short-sighted guerilla vampire hunter from the Mississippi delta. 
+23:He's an unconventional sweet-toothed paranormal investigator plagued by the memory of his family's brutal murder. 
+24:He's a bookish white trash stage actor whom everyone believes is mad. 
+25:He's a bookish small-town househusband with a passion for fast cars. 
+26:He's a shy white trash Green Beret plagued by the memory of his family's brutal murder. 
+27:He's an obese zombie shaman with nothing left to lose. 
+28:He's a short-sighted zombie shaman for the 21st century. 
+29:He's an ungodly sweet-toothed househusband possessed of the uncanny powers of an insect. 
+30:He's a fiendish one-eyed photographer possessed of the uncanny powers of an insect. 
+31:He's an otherworldly devious househusband with a winning smile and a way with the ladies. 
+32:He's a leather-clad dishevelled paramedic with a secret. 
+33:He's a shy playboy vampire hunter from a doomed world. 
+34:He's a deeply religious bohemian stage actor who knows the secret of the alien invasion. 
+35:He's a time-tossed devious astronaut on the run. 
+36:He's a gun-slinging flyboy firefighter on a search for his missing sister. 
+37:He's an old-fashioned moralistic assassin from the Mississippi delta. 
+38:He's an obese Republican farmboy with acid for blood. 
+39:He's an uncontrollable dishevelled cowboy looking for 'the Big One.' 
+40:He's a leather-clad day-dreaming Green Beret living undercover at Ringling Bros. Circus. 
+41:He's an unconventional moralistic vagrant with no name. 
+42:He's a witless Republican shaman on his last day in the job. 
+43:He's a shy alcoholic gangster moving from town to town, helping folk in trouble. 
+44:He's an ungodly guitar-strumming barbarian who hides his scarred face behind a mask. 
+45:He's a short-sighted ninja werewolf on the hunt for the last specimen of a great and near-mythical creature. 
+46:He's a time-tossed guerilla vampire hunter with no name. 
+47:He's a war-weary Catholic cat burglar moving from town to town, helping folk in trouble. 
+48:He's an obese ninja dog-catcher haunted by memories of 'Nam. 
+49:He's a Nobel prize-winning Republican senator haunted by an iconic dead American confidante 
+50:He's a benighted native American paranormal investigator with a secret. 
+He's a scarfaced soccer-playing card sharp from a doomed world.
+He's an immortal native American messiah with a secret.
+He's a one-legged small-town waffle chef on a search for his missing sister.
+He's a globe-trotting misogynist sorceror on the hunt for the last specimen of a great and near-mythical creature.
+He's a globe-trotting voodoo filmmaker in a wheelchair.
+He's an ungodly small-town master criminal plagued by the memory of his family's brutal murder.
+He's a shy amnesiac card sharp on his last day in the job.
+He's a suicidal Jewish dwarf possessed of the uncanny powers of an insect.
+He's a witless neurotic messiah haunted by memories of 'Nam.
+He's an oversexed overambitious househusband 
+He's a hate-fuelled devious romance novelist 
+He's a globe-trotting flyboy vagrant in a wheelchair.
+He's a fast talking guerilla stage actor who dotes on his loving old ma.
+He's a maverick drug-addicted Green Beret who hides his scarred face behind a mask.
+He's an oversexed albino romance novelist on the wrong side of the law.
+He's a Nobel prize-winning white trash cop in a wheelchair.
+He's a gun-slinging sweet-toothed cop from the 'hood.
+He's a world-famous day-dreaming gangster living undercover at Ringling Bros. Circus.
+He's a Nobel prize-winning umbrella-wielding cyborg in a wheelchair.
+He's an ungodly pirate senator gone bad.
+He's an obese hunchbacked cop with a secret.
+He's a short-sighted crooked librarian on the wrong side of the law.
+He's a short-sighted small-town shaman possessed of the uncanny powers of an insect.
+He's an ungodly guitar-strumming librarian who must take medication to keep him sane.
+He's a scarfaced Republican senator who dotes on his loving old ma.
+He's a scarfaced overambitious boxer with a passion for fast cars.
+He's a time-tossed day-dreaming paranormal investigator looking for a cure to the poison coursing through his veins.
+He's an ungodly voodoo assassin on a mission from God.
+He's a maverick devious shaman whom everyone believes is mad.
+He's a suicidal shark-wrestling vampire hunter with nothing left to lose.
+He's a Nobel prize-winning vegetarian jungle king on the run.
+He's an immortal soccer-playing sorceror looking for a cure to the poison coursing through his veins.
+He's a shy bohemian senator searching for his wife's true killer.
+He's a bookish guitar-strumming photographer from the Mississippi delta.
+He's a maverick dishevelled astronaut gone bad.
+He's a shy alcoholic librarian from the 'hood.
+He's a short-sighted misogynist cyborg looking for a cure to the poison coursing through his veins.
+He's a fiendish neurotic assassin on the hunt for the last specimen of a great and near-mythical creature.
+He's a lonely devious astronaut trapped in a world he never made.
+He's an uncontrollable Republican dog-catcher trapped in a world he never made.
+He's a scarfaced ninja gentleman spy whom everyone believes is mad.
+He's a hate-fuelled arachnophobic paramedic plagued by the memory of his family's brutal murder.
+He's a notorious ninja assassin possessed of the uncanny powers of an insect.
+He's a jaded overambitious assassin who knows the secret of the alien invasion.
+He's an underprivileged skateboarding werewolf 
+He's an otherworldly small-town dwarf possessed of the uncanny powers of an insect.
+He's a short-sighted guerilla vagrant haunted by memories of 'Nam.
+He's a scrappy shark-wrestling househusband moving from town to town, helping folk in trouble.
+He's a war-weary crooked card sharp living undercover at Ringling Bros. Circus.
+He's an unconventional devious librarian trapped in a world he never made.
+He's a superhumanly strong devious photographer with a mysterious suitcase handcuffed to his arm
+He's a lounge-singing drug-addicted grifter who hangs with the wrong crowd
+He's a fiendish pirate stage actor with a passion for fast cars
+He's an old-fashioned vegetarian jungle king plagued by the memory of his family's brutal murder
+He's an immortal gay hairdresser haunted by memories of 'Nam
+He's a benighted chivalrous househusband from the 'hood
+He's a time-tossed chivalrous messiah on a search for his missing sister
+He's a benighted alcoholic boxer with a mysterious suitcase handcuffed to his arm
+He's an all-American soccer-playing master criminal trapped in a world he never made
+He's an obese Catholic barbarian with a passion for fast cars
+He's a benighted sweet-toothed gangster searching for his wife's true killer
+He's a maverick gay hairdresser fleeing from a secret government programme
+He's a Nobel prize-winning chivalrous photographer in drag
+He's a Nobel prize-winning playboy assassin with a winning smile and a way with the ladies
+He's a genetically engineered moralistic rock star who hangs with the wrong crowd
+He's a leather-clad sweet-toothed master criminal on the edge
+He's an oversexed small-town vagrant with a winning smile and a way with the ladies
+He's a witless neurotic cop on a mission from God
+He's a hate-fuelled white trash cyborg with a winning smile and a way with the ladies
+He's an oversexed chivalrous firefighter on a mission from God
+He's a deeply religious alcoholic gangster from the Mississippi delta
+He's a globe-trotting albino firefighter moving from town to town, helping folk in trouble
+He's an ungodly devious sorceror with a passion for fast cars
+He's a benighted flyboy werewolf on the hunt for the last specimen of a great and near-mythical creature
+He's a witless bohemian jungle king with acid for blood
+He's a suicidal Catholic sorceror on a search for his missing sister
+He's a scrappy drug-addicted paramedic who hides his scarred face behind a mask
+He's a maverick shark-wrestling paramedic with a passion for fast cars
+He's a hate-fuelled Catholic gentleman spy possessed of the uncanny powers of an insect
+He's a maverick neurotic hairdresser possessed of the uncanny powers of an insect
+He's an oversexed crooked Green Beret gone bad
+He's a one-legged crooked dog-catcher fleeing from a secret government programme
+He's an obese amnesiac boxer on the wrong side of the law
+He's a witless one-eyed master criminal on the edge
+He's a jaded shark-wrestling rock star from the Mississippi delta
+He's an oversexed arachnophobic dwarf on the run
+He's a witless small-town werewolf looking for a cure to the poison coursing through his veins
+He's an ungodly voodoo senator on the hunt for the last specimen of a great and near-mythical creature
+He's a globe-trotting alcoholic shaman for the 21st century
+He's a globe-trotting drug-addicted messiah on the hunt for the last specimen of a great and near-mythical creature
+He's an oversexed moralistic shaman on the hunt for the last specimen of a great and near-mythical creature
+He's a fast talking guerilla master criminal in a wheelchair
+He's a one-legged zombie gangster with a winning smile and a way with the ladies
+He's a time-tossed arachnophobic librarian who knows the secret of the alien invasion
+He's a maverick guerilla farmboy moving from town to town, helping folk in trouble
+He's an ungodly zombie werewolf who hangs with the wrong crowd
+He's a suave Republican messiah who hangs with the wrong crowd
+He's a leather-clad ninja cop on a search for his missing sister
+He's an uncontrollable ninja barbarian with a winning smile and a way with the ladies
+He's an oversexed drug-addicted master criminal who must take medication to keep him sane
+He's a genetically engineered guitar-strumming cop with nothing left to lose.
+He's an unconventional guerilla astronaut on his last day in the job.
+He's a superhumanly strong devious ex-con who must take medication to keep him sane.
+He's a lonely hunchbacked rock star from the 'hood.
+He's a notorious Amish paranormal investigator from the 'hood.
+He's a gun-slinging albino waffle chef on the hunt for the last specimen of a great and near-mythical creature.
+He's a deeply religious devious rock star from the Mississippi delta.
+He's a world-famous dishevelled cowboy fleeing from a secret government programme.
+He's a suicidal Amish grifter in a wheelchair.
+He's an uncontrollable white trash gentleman spy from a doomed world.
+He's an uncontrollable Jewish paramedic who believes he can never love again.
+He's a globe-trotting white trash card sharp living undercover at Ringling Bros. Circus.
+He's a benighted soccer-playing gangster who dotes on his loving old ma.
+He's a time-tossed pirate hairdresser searching for his wife's true killer.
+He's an impetuous neurotic vagrant for the 21st century.
+He's an obese albino shaman plagued by the memory of his family's brutal murder.
+He's an obese playboy romance novelist 
+He's a witless day-dreaming jungle king in a wheelchair.
+He's an immortal zombie dog-catcher in a wheelchair.
+He's a lounge-singing zombie romance novelist in a wheelchair.
+He's an impetuous flyboy senator who hides his scarred face behind a mask.
+He's a notorious small-town romance novelist haunted by memories of 'Nam.
+He's an all-American Republican werewolf fleeing from a secret government programme.
+He's a world-famous vegetarian barbarian on the wrong side of the law.
+He's a Nobel prize-winning guerilla cowboy who dotes on his loving old ma.
+He's a sword-wielding one-eyed inventor who believes he can never love again.
+He's an impetuous day-dreaming ex-con with a winning smile and a way with the ladies.
+He's a gun-slinging sweet-toothed inventor on a search for his missing sister.
+He's an unconventional ninja paranormal investigator trapped in a world he never made.
+He's a scrappy day-dreaming farmboy on the wrong side of the law.
+He's a suicidal Jewish paranormal investigator from the 'hood.
+He's a war-weary small-town photographer haunted by memories of 'Nam.
+He's a notorious playboy stage actor with a mysterious suitcase handcuffed to his arm.
+He's a deeply religious misogynist astronaut from the Mississippi delta.
+He's a superhumanly strong vegetarian vagrant from the 'hood.
+He's an old-fashioned ninja dwarf with acid for blood.
+He's a bookish one-eyed photographer from the 'hood.
+He's a fast talking hunchbacked waffle chef who hides his scarred face behind a mask.
+He's a bookish hunchbacked cowboy who hides his scarred face behind a mask.
+He's a hate-fuelled Jewish senator fleeing from a secret government programme.
+He's an uncontrollable ninja master criminal with a robot buddy named Sparky.
+He's a jaded Amish cowboy plagued by the memory of his family's brutal murder.
+He's a lounge-singing flyboy astronaut on his last day in the job.
+He's a war-weary neurotic matador haunted by an iconic dead American confidante
+He's a hate-fuelled skateboarding senator in drag.
+He's an otherworldly one-eyed waffle chef with a robot buddy named Sparky.
+He's a benighted Catholic grifter living undercover at Ringling Bros. Circus.
+He's an all-American hunchbacked firefighter who hangs with the wrong crowd.
+He's a short-sighted hunchbacked Green Beret who believes he can never love again.
+He's a suicidal voodoo cowboy living undercover at Ringling Bros. Circus.
+He's a scrappy Jewish senator fleeing from a secret government programme.
+He's a benighted zombie inventor with a mysterious suitcase handcuffed to his arm.
+He's an oversexed bohemian cowboy with a mysterious suitcase handcuffed to his arm.
+He's a time-tossed sweet-toothed vagrant with a robot buddy named Sparky.
+He's a scrappy sweet-toothed senator with a robot buddy named Sparky.
+He's an old-fashioned native American paramedic haunted by memories of 'Nam.
+He's an oversexed Catholic sorceror looking for a cure to the poison coursing through his veins.
+He's a hate-fuelled skateboarding matador with a mysterious suitcase handcuffed to his arm.
+He's a gun-slinging Jewish hairdresser in drag.
+He's a shy native American cowboy trapped in a world he never made.
+He's a maverick pirate Green Beret who knows the secret of the alien invasion.
+He's a lonely dishevelled gangster with a passion for fast cars.
+He's an old-fashioned sweet-toothed gangster haunted by memories of 'Nam.
+He's a war-weary day-dreaming grifter whom everyone believes is mad.
+He's a lounge-singing drug-addicted farmboy searching for his wife's true killer.
+He's an immortal overambitious sorceror with a mysterious suitcase handcuffed to his arm.
+He's a gun-slinging guerilla cat burglar trapped in a world he never made.
+He's an oversexed bohemian werewolf possessed of the uncanny powers of an insect.
+He's a lounge-singing Jewish gentleman spy on the hunt for the last specimen of a great and near-mythical creature.
+He's an ungodly amnesiac messiah who knows the secret of the alien invasion.
+He's a jaded drug-addicted grifter haunted by memories of 'Nam.
+He's a bookish devious master criminal who hangs with the wrong crowd.
+He's a superhumanly strong guitar-strumming Green Beret trapped in a world he never made.
+He's a scarfaced dishevelled senator with acid for blood.
+He's a gun-slinging overambitious shaman whom everyone believes is mad.
+He's a scarfaced guitar-strumming grifter with acid for blood.
+He's a globe-trotting drug-addicted hairdresser for the 21st century.
+He's a maverick devious filmmaker on the wrong side of the law.
+He's a scrappy misogynist matador with a passion for fast cars.
+He's an immortal Jewish photographer on his last day in the job.
+He's an impetuous devious shaman from a doomed world.
+He's an immortal crooked master criminal on a mission from God.
+He's a leather-clad amnesiac cop on the hunt for the last specimen of a great and near-mythical creature.
+He's a suave Republican cowboy looking for 'the Big One.'
+He's a lounge-singing hunchbacked messiah 
+He's a short-sighted amnesiac firefighter who hangs with the wrong crowd.
+He's an old-fashioned playboy grifter who hangs with the wrong crowd.
+He's a deeply religious Jewish dwarf looking for a cure to the poison coursing through his veins.
+He's a superhumanly strong zombie rock star on the hunt for the last specimen of a great and near-mythical creature.
+He's a war-weary neurotic jungle king on a mission from God.
+He's an uncontrollable playboy househusband gone bad.
+He's a maverick gay Green Beret in a wheelchair.
+He's a one-legged arachnophobic ex-con from the 'hood.
+He's an uncontrollable pirate master criminal in drag.
+He's a superhumanly strong shark-wrestling master criminal in drag.
+He's an all-American devious romance novelist from the 'hood.
+He's a leather-clad guerilla barbarian with a mysterious suitcase handcuffed to his arm.
+He's an underprivileged misogynist werewolf on a mission from God.
+He's a maverick small-town vagrant who knows the secret of the alien invasion.
+He's a globe-trotting dishevelled ex-con on his last day in the job.
+He's a fast talking overambitious astronaut haunted by an iconic dead American confidante.
+He's an immortal devious hairdresser on a search for his missing sister.
+He's a one-legged devious paranormal investigator plagued by the memory of his family's brutal murder.
+He's a hate-fuelled small-town farmboy searching for his wife's true killer.
+He's a suave Amish barbarian who hides his scarred face behind a mask.
+He's an oversexed gay stage actor in drag.
+He's an old-fashioned Amish firefighter from the 'hood.
+He's a jaded drug-addicted dog-catcher in drag.
+He's a lounge-singing ninja farmboy.
+He's a benighted drug-addicted messiah plagued by the memory of his family's brutal murder.
+He's a scarfaced hunchbacked shaman in a wheelchair.
+He's a suicidal coffee-fuelled assassin from the Mississippi delta.
+He's a gun-slinging playboy messiah haunted by memories of 'Nam.
+He's an immortal flyboy grifter who dotes on his loving old ma.
+He's a bookish amnesiac matador on a mission from God.
+He's a fast talking chivalrous dwarf trapped in a world he never made.
+He's an all-American ninja hairdresser moving from town to town, helping folk in trouble.
+He's an otherworldly coffee-fuelled card sharp who hides his scarred face behind a mask.
+He's a scarfaced drug-addicted matador with a passion for fast cars.
+He's a fast talking dishevelled paramedic searching for his wife's true killer.
+He's a benighted amnesiac werewolf with a passion for fast cars.
+He's a gun-slinging alcoholic grifter with no name.
+He's a superhumanly strong pirate assassin on the hunt for the last specimen of a great and near-mythical creature.
+He's a world-famous misogynist paramedic with acid for blood.
+He's a scrappy skateboarding werewolf haunted by memories of 'Nam.
+He's an underprivileged Jewish paramedic haunted by memories of 'Nam.
+He's an immortal native American librarian with nothing left to lose.
+He's an all-American amnesiac firefighter with nothing left to lose.
+He's an obese Catholic farmboy with a secret.
+He's a jaded albino firefighter on a search for his missing sister.
+He's an underprivileged chivalrous Green Beret in drag.
+He's a gun-slinging ninja filmmaker.
+He's a fiendish voodoo rock star from a doomed world.
+He's a war-weary hunchbacked messiah in drag.
+He's a fiendish flyboy cat burglar with a robot buddy named Sparky.
+He's an uncontrollable coffee-fuelled barbarian on his last day in the job.
+He's an all-American overambitious grifter from the Mississippi delta.
+He's a short-sighted Republican photographer whom everyone believes is mad.
+He's a scarfaced small-town paramedic in a wheelchair.
+He's a Nobel prize-winning overambitious househusband with no name.
+He's an underprivileged albino ex-con who believes he can never love again.
+He's an old-fashioned chivalrous romance novelist with a mysterious suitcase handcuffed to his arm.
+He's a scrappy Jewish master criminal fleeing from a secret government programme.
+He's a fiendish umbrella-wielding farmboy possessed of the uncanny powers of an insect.
+He's a superhumanly strong dishevelled jungle king in drag.
+He's a globe-trotting guitar-strumming werewolf with a mysterious suitcase handcuffed to his arm.
+He's an impetuous gay dog-catcher searching for his wife's true killer.
+He's an unconventional Republican dog-catcher who must take medication to keep him sane.
+He's an otherworldly hunchbacked astronaut from a doomed world.
+He's an otherworldly albino gangster who hangs with the wrong crowd.He's a leather-clad gay vampire hunter on the run.
+He's a bookish Republican dog-catcher searching for his wife's true killer.
+He's a jaded day-dreaming farmboy who must take medication to keep him sane.
+He's a fast talking hunchbacked photographer for the 21st century.
+He's a scrappy Catholic card sharp with no name.
+He's a scrappy skateboarding vagrant in a wheelchair.
+He's a suicidal vegetarian inventor living undercover at Ringling Bros. Circus.
+He's a Nobel prize-winning umbrella-wielding sorceror plagued by the memory of his family's brutal murder.
+He's a leather-clad umbrella-wielding rock star trapped in a world he never made.
+He's an impetuous coffee-fuelled rock star on a mission from God.
+He's a maverick vegetarian rock star from a doomed world.
+He's an obese hunchbacked hairdresser with acid for blood.
+He's an oversexed dishevelled vagrant for the 21st century.
+He's a world-famous Jewish firefighter who hides his scarred face behind a mask.
+He's an oversexed one-eyed filmmaker with a mysterious suitcase handcuffed to his arm.
+He's a superhumanly strong flyboy firefighter gone bad.
+He's an unconventional amnesiac farmboy with acid for blood.
+He's a notorious Jewish dog-catcher who knows the secret of the alien invasion.
+He's a gun-slinging neurotic vagrant who must take medication to keep him sane.
+He's a world-famous crooked grifter with a winning smile and a way with the ladies.
+He's an ungodly pirate cop with nothing left to lose.
+He's an obese albino farmboy plagued by the memory of his family's brutal murder.
+He's a lounge-singing Jewish cowboy from a doomed world.
+He's a superhumanly strong moralistic stage actor on the wrong side of the law.
+He's a globe-trotting Amish romance novelist from a doomed world.
+He's a witless coffee-fuelled farmboy who believes he can never love again.
+He's an old-fashioned amnesiac cop on his last day in the job.
+He's a suicidal white trash househusband on a search for his missing sister.
+He's a bookish devious senator on the run.
+He's an all-American zombie master criminal with a robot buddy named Sparky.
+He's a jaded crooked filmmaker haunted by memories of 'Nam.
+He's an uncontrollable crooked photographer on the run.
+He's a scrappy drug-addicted photographer whom everyone believes is mad.
+He's an immortal amnesiac vampire hunter with a mysterious suitcase handcuffed to his arm.
+He's a war-weary alcoholic inventor who must take medication to keep him sane.
+He's an old-fashioned shark-wrestling hairdresser who hides his scarred face behind a mask.
+He's a hate-fuelled flyboy romance novelist possessed of the uncanny powers of an insect.
+He's a deeply religious crooked Green Beret looking for a cure to the poison coursing through his veins.
+He's a time-tossed moralistic dwarf with a robot buddy named Sparky.
+He's a scrappy shark-wrestling werewolf moving from town to town, helping folk in trouble.
+He's an impetuous skateboarding paranormal investigator possessed of the uncanny powers of an insect.
+He's a shy drug-addicted filmmaker who believes he can never love again.
+He's a genetically engineered guitar-strumming shaman living undercover at Ringling Bros. Circus.
+He's an underprivileged overambitious househusband from the Mississippi delta.
+He's an uncontrollable sweet-toothed assassin moving from town to town, helping folk in trouble.
+He's a jaded guitar-strumming Green Beret from a doomed world.
+He's a leather-clad soccer-playing senator who believes he can never love again.
+He's an otherworldly albino dog-catcher who must take medication to keep him sane.
+He's a time-tossed misogynist stage actor with nothing left to lose.
+He's a jaded playboy gangster whom everyone believes is mad.
+1. He's a short-sighted playboy photographer living undercover at Ringling Bros. Circus.
+2. He's a bookish drug-addicted farmboy possessed of the uncanny powers of an insect.
+3. He's an all-American moralistic hairdresser who knows the secret of the alien invasion.
+4. He's a genetically engineered alcoholic cat burglar with a secret.
+5. He's a superhumanly strong native American paramedic who believes he can never love again.
+6. He's a scarfaced albino dwarf who dotes on his loving old ma.
+7. He's a witless bohemian Green Beret on the wrong side of the law.
+8. He's a globe-trotting zombie jungle king on the wrong side of the law.
+9. He's an oversexed bohemian Green Beret with nothing left to lose.
+10. He's a world-famous guitar-strumming paramedic fleeing from a secret government programme.
+11. He's a scrappy ninja cowboy haunted by an iconic dead American confidante
+12. He's an unconventional overambitious paranormal investigator on a mission from God.
+13. He's a maverick moralistic waffle chef fleeing from a secret government programme.
+14. He's a genetically engineered ninja messiah on his last day in the job.
+15. He's an underprivileged moralistic werewolf fleeing from a secret government programme.
+16. He's an impetuous day-dreaming ex-con who knows the secret of the alien invasion.
+17. He's an obese overambitious boxer from the Mississippi delta.
+18. He's an impetuous umbrella-wielding dog-catcher on a search for his missing sister.
+19. He's a scrappy bohemian gangster whom everyone believes is mad.
+20. He's a benighted skateboarding barbarian on a search for his missing sister.
+21. He's a Nobel prize-winning soccer-playing gentleman spy from the 'hood.
+22. He's an otherworldly crooked cat burglar on his last day in the job.
+23. He's a suicidal native American sorceror who must take medication to keep him sane.
+24. He's a scrappy albino hairdresser looking for 'the Big One.'
+25. He's a benighted arachnophobic vampire hunter on the run.
+26. He's a maverick Jewish waffle chef on the run.
+27. He's a suicidal misogynist master criminal on the edge.
+28. He's an ungodly bohemian vagrant who dotes on his loving old ma.
+29. He's a bookish gay cowboy searching for his wife's true killer.
+30. He's a benighted vegetarian hairdresser from the Mississippi delta.
+31. He's a globe-trotting one-eyed cowboy 
+32. He's an ungodly crooked cat burglar whom everyone believes is mad.
+33. He's an obese sweet-toothed gentleman spy moving from town to town, helping folk in trouble.
+34. He's a fiendish drug-addicted astronaut on his last day in the job.
+35. He's a notorious Republican firefighter who hangs with the wrong crowd.
+36. He's a benighted neurotic shaman who hides his scarred face behind a mask.
+37. He's an immortal soccer-playing messiah with a mysterious suitcase handcuffed to his arm.
+38. He's a fiendish gay firefighter living undercover at Ringling Bros. Circus.
+39. He's an ungodly ninja ex-con in a wheelchair.
+40. He's a genetically engineered white trash househusband with no name.
+41. He's a hate-fuelled gay photographer from a doomed world.
+42. He's a jaded small-town rock star on his last day in the job.
+43. He's an oversexed small-town assassin with acid for blood.
+44. He's a globe-trotting shark-wrestling househusband 
+45. He's a Nobel prize-winning neurotic cowboy haunted by memories of 'Nam.
+46. He's a jaded vegetarian rock star on a mission from God.
+47. He's a maverick crooked househusband with a robot buddy named Sparky.
+48. He's a scrappy one-eyed gangster from the Mississippi delta.
+49. He's an unconventional devious card sharp who hangs with the wrong crowd.
+50. He's a scrappy soccer-playing senator on the edge.
+He's a gun-slinging day-dreaming paramedic fleeing from a secret government programme. 
+He's an all-American Amish jungle king for the 21st century. 
+He's a time-tossed neurotic card sharp haunted by an iconic dead American confidante 
+He's an ungodly Jewish paranormal investigator for the 21st century. 
+He's an all-American devious rock star on the run. 
+He's a gun-slinging drug-addicted vampire hunter with a mysterious suitcase handcuffed to his arm. 
+He's a genetically engineered Catholic assassin haunted by an iconic dead American confidante 
+He's an old-fashioned umbrella-wielding paranormal investigator with a passion for fast cars. 
+He's a lounge-singing skateboarding inventor haunted by an iconic dead American confidante 
+He's a scarfaced coffee-fuelled dwarf looking for 'the Big One.' 
+He's a fast talking amnesiac astronaut on the edge. 
+He's a jaded devious boxer  
+He's a leather-clad ninja firefighter searching for his wife's true killer. 
+He's an uncontrollable ninja photographer with no name. 
+He's a scarfaced Jewish master criminal who dotes on his loving old ma. 
+He's a lounge-singing alcoholic shaman who hangs with the wrong crowd. 
+He's an immortal neurotic ex-con with a robot buddy named Sparky. 
+He's a hate-fuelled one-eyed photographer from the 'hood. 
+He's a superhumanly strong Amish stage actor looking for 'the Big One.' 
+He's a genetically engineered crooked shaman gone bad. 
+He's a globe-trotting ninja senator haunted by memories of 'Nam. 
+He's a lounge-singing native American cat burglar looking for a cure to the poison coursing through his veins. 
+He's an impetuous chivalrous jungle king with nothing left to lose. 
+He's a jaded albino cop haunted by an iconic dead American confidante 
+He's a shy playboy cat burglar with a robot buddy named Sparky. 
+He's a shy shark-wrestling cowboy in a wheelchair. 
+He's an uncontrollable playboy card sharp with no name. 
+He's an old-fashioned ninja romance novelist with a winning smile and a way with the ladies. 
+He's a scrappy shark-wrestling boxer on the hunt for the last specimen of a great and near-mythical creature. 
+He's a time-tossed shark-wrestling Green Beret from a doomed world. 
+He's a witless crooked Green Beret haunted by memories of 'Nam. 
+He's an ungodly flyboy sorceror on the hunt for the last specimen of a great and near-mythical creature. 
+He's a fast talking day-dreaming paranormal investigator from the Mississippi delta. 
+He's an uncontrollable vegetarian dwarf who must take medication to keep him sane. 
+He's a fiendish dishevelled senator with a secret. 
+He's a notorious soccer-playing paramedic with a secret. 
+He's a leather-clad Amish librarian from the 'hood. 
+He's a leather-clad Jewish waffle chef on a mission from God. 
+He's an underprivileged misogynist dwarf who knows the secret of the alien invasion. 
+He's a scarfaced drug-addicted grifter trapped in a world he never made. 
+He's a fiendish neurotic Green Beret whom everyone believes is mad. 
+He's a scarfaced drug-addicted librarian possessed of the uncanny powers of an insect. 
+He's a jaded voodoo gentleman spy searching for his wife's true killer. 
+He's a genetically engineered Republican barbarian with a robot buddy named Sparky. 
+He's an uncontrollable umbrella-wielding farmboy from the 'hood. 
+He's an old-fashioned Republican card sharp on the edge. 
+He's a jaded gay rock star with a secret. 
+He's a Nobel prize-winning native American grifter with nothing left to lose. 
+He's an oversexed playboy astronaut on his last day in the job. 
+He's a lonely pirate werewolf on a mission from God. He's a fast talking day-dreaming gentleman spy with a mysterious suitcase handcuffed to his arm. 
+He's a scrappy day-dreaming dwarf from the 'hood. 
+He's a witless gay waffle chef who dotes on his loving old ma. 
+He's an obese flyboy inventor who believes he can never love again. 
+He's an old-fashioned day-dreaming werewolf on a mission from God. 
+He's a gun-slinging arachnophobic vagrant on his last day in the job. 
+He's a Nobel prize-winning sweet-toothed vampire hunter on a mission from God. 
+He's an otherworldly flyboy librarian fleeing from a secret government programme. 
+He's an immortal pirate paranormal investigator with a passion for fast cars. 
+He's a notorious Republican librarian with nothing left to lose. 
+He's a scarfaced white trash romance novelist who hangs with the wrong crowd. 
+He's an underprivileged amnesiac ex-con on the wrong side of the law. 
+He's a bookish Jewish werewolf haunted by memories of 'Nam. 
+He's a time-tossed one-eyed boxer with a secret. 
+He's an immortal guitar-strumming assassin fleeing from a secret government programme. 
+He's an obese misogynist barbarian on a mission from God. 
+He's a bookish zombie jungle king trapped in a world he never made. 
+He's a lonely soccer-playing boxer for the 21st century. 
+He's an unconventional dishevelled dwarf on the edge. 
+He's an uncontrollable neurotic dog-catcher who hangs with the wrong crowd. 
+He's a fiendish moralistic hairdresser who must take medication to keep him sane. 
+He's a bookish hunchbacked photographer searching for his wife's true killer. 
+He's a deeply religious devious hairdresser with acid for blood. 
+He's a globe-trotting misogynist vampire hunter on a mission from God. 
+He's an all-American umbrella-wielding dwarf with a winning smile and a way with the ladies. 
+He's a suave Republican filmmaker on a mission from God. 
+He's a hate-fuelled bohemian paranormal investigator on the wrong side of the law. 
+He's an unconventional dishevelled assassin with a passion for fast cars. 
+He's a lonely crooked card sharp from the 'hood. 
+He's an immortal voodoo rock star on the edge. 
+He's a bookish native American romance novelist whom everyone believes is mad. 
+He's a notorious gay househusband with a winning smile and a way with the ladies. 
+He's a leather-clad guerilla matador from the 'hood. 
+He's a lonely vegetarian senator living undercover at Ringling Bros. Circus. 
+He's a hate-fuelled umbrella-wielding househusband who hangs with the wrong crowd. 
+He's an all-American Amish househusband who hides his scarred face behind a mask. 
+He's a suave Republican grifter with a passion for fast cars. 
+He's a superhumanly strong small-town paranormal investigator on the hunt for the last specimen of a great and near-mythical creature. 
+He's an unconventional umbrella-wielding ex-con gone bad. 
+He's a jaded hunchbacked vagrant from the Mississippi delta. 
+He's a fast talking day-dreaming farmboy looking for a cure to the poison coursing through his veins. 
+He's an obese misogynist cyborg from a doomed world. 
+He's a superhumanly strong Catholic grifter from the 'hood. 
+He's an underprivileged ninja gangster haunted by memories of 'Nam. 
+He's an otherworldly bohemian dwarf with acid for blood. 
+He's a shy soccer-playing gentleman spy with no name. 
+He's a one-legged Jewish paramedic from the Mississippi delta. 
+He's a maverick drug-addicted paramedic looking for 'the Big One.' 
+He's a fiendish alcoholic shaman fleeing from a secret government programme. 
+He's a leather-clad guitar-strumming romance novelist on the hunt for the last specimen of a great and near-mythical creature. 
+He's a war-weary vegetarian filmmaker on the edge. 
+He's a short-sighted coffee-fuelled astronaut  
+He's a hate-fuelled pirate stage actor with a robot buddy named Sparky. 
+He's a world-famous bohemian stage actor possessed of the uncanny powers of an insect. 
+He's a suicidal ninja cowboy from the 'hood. 
+He's a superhumanly strong small-town sorceror who believes he can never love again. 
+He's a world-famous dishevelled barbarian looking for a cure to the poison coursing through his veins. 
+He's a jaded arachnophobic gangster gone bad. 
+He's a maverick guitar-strumming librarian on the hunt for the last specimen of a great and near-mythical creature. 
+He's an impetuous albino paranormal investigator living undercover at Ringling Bros. Circus. 
+He's a maverick soccer-playing househusband on a search for his missing sister. 
+He's a superhumanly strong pirate vagrant trapped in a world he never made. 
+He's a bookish zombie card sharp living undercover at Ringling Bros. Circus. 
+He's a suave soccer-playing paramedic who believes he can never love again. 
+He's a gun-slinging Amish grifter looking for a cure to the poison coursing through his veins. 
+He's a sword-wielding arachnophobic cyborg who hides his scarred face behind a mask. 
+He's a superhumanly strong flyboy romance novelist in a wheelchair. 
+He's a bookish hunchbacked waffle chef on the edge. 
+He's a bookish small-town sorceror with a winning smile and a way with the ladies. 
+He's an ungodly vegetarian romance novelist who hangs with the wrong crowd. 
+He's a genetically engineered ninja paramedic looking for a cure to the poison coursing through his veins. 
+He's a sword-wielding albino messiah living undercover at Ringling Bros. Circus. 
+He's a suave one-eyed assassin living undercover at Ringling Bros. Circus. 
+He's a jaded arachnophobic cowboy with nothing left to lose. 
+He's a suicidal sweet-toothed werewolf searching for his wife's true killer. 
+He's a suicidal moralistic assassin with a secret. 
+He's an old-fashioned playboy grifter plagued by the memory of his family's brutal murder. 
+He's an unconventional overambitious librarian with nothing left to lose. 
+He's a world-famous skateboarding hairdresser who must take medication to keep him sane. 
+He's a leather-clad one-eyed filmmaker plagued by the memory of his family's brutal murder. 
+He's a sword-wielding zombie jungle king  
+He's a lonely voodoo firefighter in a wheelchair. 
+He's a lounge-singing small-town Green Beret who knows the secret of the alien invasion. 
+He's an all-American coffee-fuelled assassin for the 21st century. 
+He's a fiendish umbrella-wielding senator on the run. 
+He's a fiendish shark-wrestling gangster who hangs with the wrong crowd. 
+He's an unconventional flyboy card sharp in a wheelchair. 
+He's a short-sighted guitar-strumming romance novelist in drag. 
+He's an unconventional Amish sorceror on a mission from God. 
+He's a hate-fuelled Amish vampire hunter haunted by an iconic dead American confidante 
+He's an uncontrollable voodoo cat burglar on a mission from God. 
+He's a lounge-singing day-dreaming barbarian fleeing from a secret government programme. 
+He's a shy arachnophobic waffle chef who knows the secret of the alien invasion. 
+He's an obese ninja cowboy from a doomed world. 
+He's an underprivileged overambitious stage actor with acid for blood. 
+He's a notorious chivalrous waffle chef on the wrong side of the law. 
+He's a benighted day-dreaming cop for the 21st century. 
+He's a scrappy moralistic ex-con who knows the secret of the alien invasion. 
+He's a short-sighted overambitious librarian gone bad. 
+He's a lounge-singing umbrella-wielding househusband fleeing from a secret government programme. 
