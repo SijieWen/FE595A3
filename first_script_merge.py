@@ -1,6 +1,6 @@
 import os
 os.getcwd() 
-os.chdir("Assignment")
+os.chdir("Assignment")   # change the path to your data set located
 
 ## Merge all male files
 maledir = os.getcwd()+'/raw_result/raw_male'
