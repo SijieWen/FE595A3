@@ -76,10 +76,10 @@ f.close()
 df_female = pd.DataFrame(female_l, columns = ['Score', 'Sentence'])    # conver the list into a dataframe
 df_female = df_female.sort_values(by="Score" , ascending=False)   # sort all of the characters based on sentiment score
 
-top_female = df_female.head(10)   # top 10 male
+top_female = df_female.head(10)   # top 10 female
 top_female
 
-bottom_female = df_female.tail(10)   # bottom 10 male
+bottom_female = df_female.tail(10)   # bottom 10 female
 bottom_female
 
 
@@ -149,12 +149,12 @@ male_des     # all descriptions for male characters
 female_des = []
 for i in range(len(df_female)):
     data = df_female.iloc[i,1]
-    data = re.findall(r"((?<=She's).*)", data)    # remove He's, just leave useful character
+    data = re.findall(r"((?<=She's).*)", data)    # remove She's, just leave useful character
     data = "".join(data)    # conver list into string
     female_des.append(data)
 
 female_des = "".join(female_des)   # conver list into string
-female_des 
+female_des    # all descriptions for female characters
 
 
 ## Get Wordlists
